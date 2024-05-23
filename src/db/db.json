@@ -1,0 +1,71 @@
+
+
+{
+    "student": [
+        {
+            "id": "123456789",
+            "nombre": "John Doe",
+            "rut": "123456789",
+            "nacionalidad": "Chile",
+            "fechaNacimiento": "1990-01-01",
+            "edad": "31",
+            "mail": "john.doe@example.com",
+            "telefono": "123456789",
+            "contactoEmergencia": "Jane Doe",
+            "tipoInstitucion": "Colegio",
+            "sede": "Santiago",
+            "jornada": "Mañana",
+            "areasAcademicas": "Ciencias",
+            "programasDeEstudio": "Biología",
+            "tutor": "Tutor Name",
+            "directorCarrera": "Director Name",
+            "tipoDiscapacidad": "Visual",
+            "origenDiscapacidad": "Congénita",
+            "etapa": "Educación Media",
+            "certificados": "Certificado 1, Certificado 2",
+            "enfermedadAsociada": "Ninguna",
+            "checkTratamientoFarmacologico": true,
+            "tratamientoFarmacologicoDetalles": "Detalles del tratamiento farmacológico",
+            "checkTratamientoEspecialista": true,
+            "tratamientoEspecialistaDetalles": "Detalles del tratamiento con especialista",
+            "checkRedesApoyoPublicaPrivada": true,
+            "redesApoyoPublicaPrivadaDetalles": "Detalles de las redes de apoyo",
+            "informacionFamiliar": [
+                {
+                    "nombre": "Jane Doe",
+                    "parentesco": "Madre",
+                    "ocupacion": "Profesora",
+                    "edad": "50"
+                },
+                {
+                    "nombre": "John Doe Sr.",
+                    "parentesco": "Padre",
+                    "ocupacion": "Ingeniero",
+                    "edad": "55"
+                }
+            ],
+            "modalidadEnsenanzaMedia": "Presencial",
+            "establecimientoEducacional": "Colegio ABC",
+            "checkApoyoPosicoacademico": true,
+            "apoyoPosicoacademicoDetalles": "Detalles del apoyo psicoacadémico",
+            "checkRipitioCurso": false,
+            "cursoRepetido": "",
+            "motivoRepeticion": "",
+            "checkAsistioOtraInstitucionEdSuperior": true,
+            "nombreInstitucionSuperior": "Universidad XYZ",
+            "tipoInstitucionSuperior": "Universidad",
+            "nombreCarreraSuperior": "Ingeniería",
+            "semestresAprobadosSuperior": "6",
+            "motivoAbandonoSuperior": "",
+            "checkTrabaja": true,
+            "nombreEmpresaTrabaja": "ABC Company",
+            "cargoEmpresaTrabaja": "Developer",
+            "descripcionCaracteristicasDelEstudiante": "Descripción de las características del estudiante",
+            "descripcionAjustesRazonables": "Descripción de los ajustes razonables",
+            "checkConsentimientoAjustesRazonables": true,
+            "observaciones": "Observaciones adicionales",
+            "adjuntos": "Archivo adjunto 1, Archivo adjunto 2",
+            "informacionConfidencial": "Información confidencial del estudiante"
+        }
+    ]
+}
